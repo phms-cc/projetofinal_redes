@@ -1,3 +1,8 @@
+#JOAO VITOR ALVES FAHNING
+#PEDRO HENRIQUE MARINHO SALVINO 
+#RAINER TERROSO CARNEIRO
+
+# Importações necessárias
 import socket
 import struct
 import random
